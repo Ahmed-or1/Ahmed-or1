@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**Ahmed-or1/Ahmed-or1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Operations Research Student at King Saud University.
 
-Here are some ideas to get you started:
+I'm interested in:
+- Business Analytics
+- Data Analytics
+- Operations Research & Optimization
+- Management Consulting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Python
+- SQL
+- Power BI
+- Data Analysis
+
+### Career Interests
+Aspiring Consultant passionate about solving business problems through analytical thinking and data-driven decision-making.
+
+---
+Always learning, improving, and building new skills.
+
